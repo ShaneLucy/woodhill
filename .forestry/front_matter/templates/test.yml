@@ -17,3 +17,9 @@ fields:
 - type: text
   name: type
   label: type
+- name: test
+  type: text
+  config:
+    required: false
+  label: Test
+  description: Test

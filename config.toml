@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://example.org/"
+baseURL = "https://shanelucy.github.io/woodhill/"
 languageCode = "en-us"
 title = "Restaurant Hugo"
 theme = "restaurant-hugo"

@@ -5,6 +5,8 @@ summaryLength = "10"
 theme = "restaurant-hugo"
 title = "Restaurant Hugo"
 [[menu.main]]
+
+publishDir = "docs"
 URL = "contact-us"
 name = "Contact Us"
 weight = 6
